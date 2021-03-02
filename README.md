@@ -1,5 +1,5 @@
 <img src="https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png">
-# bmi
+<h1>BMI CALCULATOR</h1>
 
 A new bmi calculator app
 
