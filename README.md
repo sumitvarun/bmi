@@ -1,3 +1,4 @@
+<img src="https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png">
 # bmi
 
 A new bmi calculator app
